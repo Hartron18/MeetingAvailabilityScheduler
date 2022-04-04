@@ -1,0 +1,1 @@
+# MeetingAvailabilityScheduler is an Api that schedules meetings in an organisation. One can check for available slots within a day and schedule a meeting within that timeframe but cannot view the previous day meetings and any meeting cant exceed a time limit of 2hrs at most.
