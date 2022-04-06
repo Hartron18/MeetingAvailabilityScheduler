@@ -28,3 +28,14 @@ C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\obj\Debug\net5.0\ref
 C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\obj\Debug\net5.0\MeetingAvailabilityScheduler.pdb
 C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\obj\Debug\net5.0\MeetingAvailabilityScheduler.genruntimeconfig.cache
 C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\obj\Debug\net5.0\refint\MeetingAvailabilityScheduler.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CAD_DEV_HARRY\Desktop\MeetingAvailabilityScheduler\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

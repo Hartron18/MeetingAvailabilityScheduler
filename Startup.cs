@@ -30,6 +30,8 @@ namespace MeetingAvailabilityScheduler
 
             services.AddControllers();
             services.ConfigureLogger();
+            services.ConfigureSqlContext(Configuration);
+            services.AddAutoMapper(typeof(Startup));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "MeetingAvailabilityScheduler", Version = "v1" });

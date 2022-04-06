@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace MeetingAvailabilityScheduler.Entities.Models
+namespace MeetingAvailabilityScheduler.Entities.Dto
 {
-    public class CreateMeeting
+    public class CreateMeetingDto
     {
         public Guid MeetingId { get; }
         public DateTime StartTime { get; set; }
