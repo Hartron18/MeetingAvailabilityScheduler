@@ -31,6 +31,7 @@ namespace MeetingAvailabilityScheduler
             services.AddControllers();
             services.ConfigureLogger();
             services.ConfigureSqlContext(Configuration);
+            services.ConfigureRepository();
             services.AddAutoMapper(typeof(Startup));
             services.AddSwaggerGen(c =>
             {

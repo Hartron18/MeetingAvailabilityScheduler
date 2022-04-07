@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace MeetingAvailabilityScheduler.Repositories
 {
-    public class MeetingRepository: IMeetingRepository<Meeting>
+    public class MeetingRepository: IMeetingRepository
     {
         private RepositoryContext _repositoryContext;
         public MeetingRepository(RepositoryContext repositoryContext)
