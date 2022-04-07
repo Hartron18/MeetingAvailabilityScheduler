@@ -5,7 +5,8 @@ namespace MeetingAvailabilityScheduler
 {
     public class RepositoryContext:DbContext
     {
-       public DbSet<Meeting> Meetings { get; set; }
+        public DbContextOptions
+        public DbSet<Meeting> Meetings { get; set; }
 
     }
 }
